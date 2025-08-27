@@ -5,3 +5,8 @@
     appearance: none;
     color: #f0f8ff;
 }
+
+option {
+    color: black;
+    background-color: white;
+}
