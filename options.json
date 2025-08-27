@@ -1,0 +1,8 @@
+{
+    "options": [
+        {"value": 0, "text": "", "color": "#f0f8ff"},
+        {"value": 1, "text": "test1", "color": "#f0f8ff"},
+        {"value": 2, "text": "test2", "color": "#f0f8ff"},
+        {"value": 3, "text": "test3", "color": "#f0f8ff"}
+    ]
+}

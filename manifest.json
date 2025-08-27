@@ -1,0 +1,17 @@
+{
+    "name": "test",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "permissions": ["storage"],
+    "description": "Sample Chrome Extension",
+    "content_scripts": [{
+      "matches": ["file:///C:/Users/kaput/Desktop/index.html"],
+      "css": [
+        "style.css"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_end"
+    }]
+  }
